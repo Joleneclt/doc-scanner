@@ -978,7 +978,7 @@ export default function DocScannerApp() {
           webViewLink: `https://drive.google.com/file/d/demo_id/view`,
         };
       } else {
-        result = await uploadToGoogleDrive(pdfBlob, fileName, null, accessToken);
+        result = await uploadToGoogleDrive(pdfBlob, fileName, "1q9Xc-JINBZnIBneoWm8ddcHqSlfh6aXs", accessToken);
       }
 
       setProgress(100);
