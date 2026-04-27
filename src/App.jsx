@@ -3,7 +3,7 @@ import { useState, useRef, useCallback, useEffect } from "react";
 // ============================================================
 // ⚙️  設定區：填入你的 Google Cloud Console 憑證
 // ============================================================
-const GOOGLE_CLIENT_ID = "YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "255269588123-tgk1iqemmackhfc79se5afotnv6845sn.apps.googleusercontent.com";
 // 在 Google Cloud Console → APIs & Services → Credentials 建立
 // Authorized JavaScript origins: http://localhost:3000 (或你的網域)
 // Authorized redirect URIs: 同上
